@@ -5,7 +5,7 @@ This repository finds duplicate images in a folder and displays them on a webpag
 
 ## Installation
 
-<img src="https://github.com/aarushigarg/organizing-pictures/blob/main/OrganizingPicturesVideo.gif" width="600" height="400"/>
+<img src="https://github.com/aarushigarg/organizing-pictures/blob/main/OrganizingPicturesVideo.gif" width="550" height="400"/>
 
 ### Create a virtual environment and activate it.
 https://docs.python.org/3/library/venv.html
